@@ -31,6 +31,3 @@ Upon launching the application, the user is prompted to log in.
 After a successful login, the menu page appears, prompting the user for voice commands such as "Create Task," "Mark Task as Complete," "View Tasks," and "Logout."
 The user can navigate through tasks using voice commands, creating new tasks, marking tasks as complete, or deleting them.
 The system is designed to provide a simple and intuitive interface for visually impaired users.
-:heart: Owner
-
-Developed with :heart:  by Your Name
