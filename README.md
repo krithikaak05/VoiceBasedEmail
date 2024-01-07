@@ -6,7 +6,7 @@
 </div>
 <br>
 
-:innocent: Motivation
+:innocent: Motivation <br>
 Approximately 285 million people worldwide are visually impaired, and this project aims to provide them with a seamless task management system. The motivation behind this initiative is to create an accessible communication platform that overcomes the limitations of existing systems, which heavily rely on mouse click events and keyboard shortcuts, making it challenging for visually impaired users. The system focuses on fundamental functionalities such as task creation, completion, and deletion.
 
 :warning: TechStack/Framework used
