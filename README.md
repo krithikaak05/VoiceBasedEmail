@@ -23,6 +23,7 @@ HTML
 CSS
 JavaScript
 Django
+
 :bulb: Working
 
 The program operates as follows:
