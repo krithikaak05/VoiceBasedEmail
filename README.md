@@ -1,7 +1,7 @@
 <h1> Voice Based Task Management for the Visually Impaired </h1>
 
 <div align="center">
-  <h4>A Voice-based task management system designed to empower visually impaired users to efficiently manage their tasks through voice commands.</h4>
+  <h4> A Voice-based task management system designed to empower visually impaired users to efficiently manage their tasks through voice commands.</h4>
 </div>
 <br>
 
