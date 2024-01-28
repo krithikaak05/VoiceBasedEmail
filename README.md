@@ -16,6 +16,7 @@ Approximately 285 million people worldwide are visually impaired, and this proje
 * Django
 
 :bulb: Working
+
 The program operates as follows:
 
 Upon launching the application, the user is prompted to log in.
